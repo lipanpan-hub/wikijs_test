@@ -10,3 +10,6 @@ dateCreated: 2022-10-05T03:00:10.906Z
 
 
 github 当中的 readme 文件啊  
+
+
+github 上面 进行编辑 然后同步到 自己机器上面 
