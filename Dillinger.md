@@ -2,10 +2,10 @@
 title: Dillinger
 description: 
 published: true
-date: 2022-10-05T02:13:45.806Z
+date: 2022-10-05T08:19:44.452Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-05T02:13:44.249Z
+dateCreated: 2022-10-05T08:19:24.533Z
 ---
 
 # Dillinger

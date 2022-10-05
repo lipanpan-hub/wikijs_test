@@ -2,10 +2,10 @@
 title: Github Flavored Markdown
 description: 
 published: true
-date: 2022-10-05T02:45:04.982Z
+date: 2022-10-05T08:19:46.389Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-05T02:45:02.614Z
+dateCreated: 2022-10-05T08:19:26.627Z
 ---
 
 README

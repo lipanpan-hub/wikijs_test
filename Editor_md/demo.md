@@ -2,10 +2,10 @@
 title: Editor.md
 description: 
 published: true
-date: 2022-10-05T02:19:27.238Z
+date: 2022-10-05T08:19:54.083Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-05T02:19:24.946Z
+dateCreated: 2022-10-05T08:19:36.803Z
 ---
 
 ### Features
