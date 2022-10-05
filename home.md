@@ -2,7 +2,7 @@
 title: 这个是首页标题
 description: 
 published: true
-date: 2022-10-05T02:26:03.395Z
+date: 2022-10-05T02:38:10.367Z
 tags: test
 editor: markdown
 dateCreated: 2022-10-05T02:09:37.786Z
@@ -19,12 +19,12 @@ Your content here
 
 
 ---
-[MarkdownLivePreview](/MarkdownLivePreview)
-[Dillinger](/Dillinger)
-[demo](/Editor_md/demo)
+[MarkdownLivePreview](MarkdownLivePreview)
+[Dillinger](Dillinger)
+[demo](Editor_md/demo)
 
 
 ---
-[home](/en/home)
+[home](en/home)
 
 
