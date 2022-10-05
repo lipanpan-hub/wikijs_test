@@ -2,7 +2,7 @@
 title: 这个是首页标题
 description: 
 published: true
-date: 2022-10-05T02:49:09.534Z
+date: 2022-10-05T02:49:43.963Z
 tags: test
 editor: markdown
 dateCreated: 2022-10-05T02:09:37.786Z
@@ -31,4 +31,7 @@ Your content here
 ---
 [home](en/home)
 
+
+---
+[home](/en/home.md)
 
