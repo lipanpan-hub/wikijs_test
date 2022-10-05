@@ -2,14 +2,16 @@
 title: README.md
 description: 
 published: true
-date: 2022-10-05T03:00:12.314Z
+date: 2022-10-05T08:22:29.134Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-05T03:00:10.906Z
+dateCreated: 2022-10-05T08:19:31.106Z
 ---
-
 
 github 当中的 readme 文件啊  
 
 
-github 上面 进行编辑 然后同步到 自己机器上面 
+
+在 hostwiki.io 更改 这个readme 文件 同步到 github 上去  
+
+
